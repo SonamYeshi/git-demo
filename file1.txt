@@ -1,3 +1,5 @@
 Hello Sonam
 
 ##this my edited text##
+
+This is my third changes to this file for learning git command.
